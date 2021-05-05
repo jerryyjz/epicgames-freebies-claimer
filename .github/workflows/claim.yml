@@ -33,4 +33,5 @@ jobs:
               run: mkdir .egstore
 
             - name: Get Epic Freebies
-              run: yarn start ${{ secrets.USERNAME }} ${{ secrets.PASSWORD }} 1 ${{ secrets.SECRETKEY }}
+              run: yarn start ${{ secrets.USERNAME }} ${{ secrets.PASSWORD }} 0
+              #1 ${{ secrets.SECRETKEY }}
