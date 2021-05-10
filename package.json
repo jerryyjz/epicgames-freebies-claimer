@@ -35,7 +35,7 @@
     "dependencies": {
         "check-update-github": "^0.0.4",
         "colors": "^1.4.0",
-        "epicgames-client": "davispuh/node-epicgames-client#deviceauth",
+        "epicgames-client": "Revadike/node-epicgames-client#master",
         "epicgames-client-login-adapter": "jerryyjz/node-epicgames-client-login-adapter",
         "node-2fa": "^1.1.2",
         "tracer": "^1.0.3"
